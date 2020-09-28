@@ -831,3 +831,110 @@ z	Z	名詞
 らｍ	ram	名詞	
 らｍ	RAM	名詞	
 ゔぇｒ	ver	名詞	
+100ｖ	100V	名詞	
+1.602*10＾19	1.602*10^19	名詞	
+たんけいは	矩形波	名詞	間違いだよ～
+ｙ＝あｘ	y=ax	名詞	
+ｖ＝り	v=Ri	名詞	
+り	Ri	名詞	
+ｒ	R	名詞	
+ｖ・い	v/i	名詞	
+ｖ・い	V/i	名詞	
+ていこう	resistor	名詞	
+ていこう	レジスタ	名詞	
+ﾚｼﾞｽﾀﾝｽ	resistor	名詞	
+レジスタンス	resistance	名詞	
+でんりょく	E	名詞	
+パワー	power	名詞	
+インダクタンス	h	名詞	
+インダクタンス	H	名詞	
+んちょっけい＝ぃ	NΦ=Li	名詞	
+じそく	Φ	名詞	
+キャパシタ	capacitance	名詞	
+キャパシタ	capacitor	名詞	
+みりへんりー	mH	名詞	
+まいくろふぁらっど	μF	名詞	
+ファラッド	F	名詞	
+はい	high	名詞	
+はい	HIGH	名詞	
+ろー	low	名詞	
+ロー	LOW	名詞	
+へるつ	Hz	名詞	
+きろへるつ	kHz	名詞	
+めがへるつ	MHz	名詞	
+ぎがへるつ	GHz	名詞	
+にぱい	2π	名詞	
+さんぱい	3π	名詞	
+2ぱい	2π	名詞	
+3ぱい	3π	名詞	
+ぱい	3.14159265359	名詞	
+ぱい	3.14	名詞	
+ぱい	3.14159	名詞	
+ぱい	3.1416	名詞	
+えんしゅうりつ	π	名詞	
+えんしゅうりつ	3.14159265359	名詞	
+えんしゅりつ	3.14159	名詞	
+えんしゅうりつ	3.14	名詞	
+えんしゅりつ	3.1416	名詞	
+かず	age	名詞	
+でんい	potential	名詞	
+でんりゅう	current	名詞	
+えねるぎー	energy	名詞	
+えねるぎー	E	名詞	
+じゅーる	J	名詞	
+てすたー	テスター	名詞	
+てすたー	multimeter	名詞	
+キルヒホッフ	Kirchhoff	名詞	
+でんかい	electric field	名詞	
+じかい	magnetic field	名詞	
+でんいこうばい	potential gradient	名詞	
+キルヒホッフのほうそく	Kirchhof's law	名詞	
+おーむのほうそく	Ohm's law	名詞	
+ぎゃくきでんりょく	back-e.m.f.	名詞	
+ぶりっじかいろ	bridge circuit	名詞	
+かいろ	circuit	名詞	
+ひかくき	comparator	名詞	
+こんぱれーたー	comparator	名詞	
+でんりゅうげん	current source	名詞	
+でんあつげん	voltage source	名詞	
+でんきかいろ	electric circuit	名詞	
+まさつ	friction	名詞	
+にゅうりょく	input	名詞	
+しゅつりょく	output	名詞	
+ないぶいんぴだーす	internal impedance	名詞	
+いんぴだーす	impedance	名詞	
+ないぶていこう	internal registance	名詞	
+こうていこう	high resistance	名詞	
+ていていこう	low resistance	名詞	
+ふか	load	名詞	
+こうそくしけん	lock-load test	名詞	
+むふかでんりゅう	no-load current	名詞	
+むふかしけん	no-load test	名詞	
+でんげん	power supply	名詞	
+でんげん	power source	名詞	
+ぷりんときばん	printed board	名詞	
+かさねあわせのり	principle of superposition	名詞	
+きじゅんてん	reference point	名詞	
+ていこうもう	resistor network	名詞	
+たんらく	shorting	名詞	
+しょーと	shorting	名詞	
+たんらくかいろ	short circuit	名詞	
+とるく	torque	名詞	
+しんくう	vacuum	名詞	
+かへんていこう	variable resistance	名詞	
+かへんていこうき	rheostat	名詞	
+でんあつ・でんりゅうとくせい	V-I characteristics	名詞	
+でんせん	wire	名詞	
+えなめるせん	magnetic wire	名詞	
+でんしかいろ	electronic circuit	名詞	
+とうかかいろ	equivalent circuit	名詞	
+へいれつかいろ	paralled circuit	名詞	
+ちょくれつかいろ	series circuit	名詞	
+かそうかいろ	virtual circuit	名詞	
+ぜつえん	isolation	名詞	
+ぜつえん	insulation	名詞	
+いちじがわ	primary side	名詞	
+にじがわ	secondary side	名詞	
+1じがわ	primary side	名詞	
+2じがわ	secondary side	名詞	
+		名詞	
